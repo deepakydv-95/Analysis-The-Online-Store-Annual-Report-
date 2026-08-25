@@ -80,12 +80,13 @@ Interactive channel filtering allows the user to analyze individual channels and
 These filters allow users to dynamically explore the dashboard and analyze specific customer segments, months, and sales channels.
 
 💡 Key Insights:-  
-    * **Maharashtra** is one of the strongest-performing states in terms of sales among the Top 5 states shown in the dashboard.
-    * **Women contribute a larger share of sales**, accounting for **66.38%**, compared with 33.62% for men.
-    * **Adult customers** represent the primary age group shown in the dashboard analysis.
-    * **Delivered orders dominate the order status**, representing approximately 93% of the orders.
-    * Monthly analysis helps identify changes in sales and order performance from **February to May** in the selected dashboard view.
-    * The interactive channel filter allows sales performance to be examined individually across different online sales platforms.
+   
+  * **Maharashtra** is one of the strongest-performing states in terms of sales among the Top 5 states shown in the dashboard.
+ * **Women contribute a larger share of sales**, accounting for **66.38%**, compared with 33.62% for men.
+ * **Adult customers** represent the primary age group shown in the dashboard analysis.
+ * **Delivered orders dominate the order status**, representing approximately 93% of the orders.
+ * Monthly analysis helps identify changes in sales and order performance from **February to May** in the selected dashboard    view.
+ * The interactive channel filter allows sales performance to be examined individually across different online sales            platforms.
 
  Tools & Technologies :- 
    * **Microsoft Excel**
