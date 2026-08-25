@@ -1,7 +1,8 @@
 🛒Analysis the Online Store Annual Report – Excel Dashboard
 
-📌 Project Overview
-  This project is an **Online Store Annual Report Dashboard** created using **Microsoft Excel**. The dashboard provides an interactive analysis of sales, orders, customers, order status, channels, gender, age groups, months, and states.
+📌 Project Overview :- 
+  
+  This project is an **Online Store Annual Report Dashboard** created using **Microsoft Excel**. The dashboard provides an     interactive analysis of sales, orders, customers, order status, channels, gender, age groups, months, and states.
 
   The main objective of this project is to transform raw online store data into an interactive dashboard that makes it easier to identify **sales trends, customer demographics, top-performing states, order performance, and sales distribution**.
 
