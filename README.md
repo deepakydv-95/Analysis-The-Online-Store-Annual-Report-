@@ -66,6 +66,7 @@ This visualization makes it easy to compare the sales contribution of the highes
     * Myntra
     * Nalli
     * Others
+
 Interactive channel filtering allows the user to analyze individual channels and their sales performance.
 
 7.Interactive Filters:- 
@@ -74,6 +75,7 @@ Interactive channel filtering allows the user to analyze individual channels and
     * **Month**
     * **Age Group**
     * **Gender**
+
 These filters allow users to dynamically explore the dashboard and analyze specific customer segments, months, and sales channels.
 
 💡 Key Insights:-  
