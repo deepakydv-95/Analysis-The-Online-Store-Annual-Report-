@@ -31,29 +31,34 @@ This visualization makes it easy to compare the sales contribution of the highes
    A **Column Chart** is used to analyze sales distribution across customer age groups.
    The dashboard shows the contribution of different age categories, helping understand which customer age segment contributes more to sales.
 
-3. Compare Sales and Orders
+3. Compare Sales and Orders:- 
     A **Combination Chart** compares **sales amount and order performance across months**.
     This helps identify monthly changes in sales and understand whether higher sales are associated with higher order activity.
 
-4. Sales by Gender
+4. Sales by Gender:- 
    A **Pie Chart** analyzes sales distribution between **Men and Women**.
+
    From the dashboard:
      * **Women:** 66.38%
      * * **Men:** 33.62%
+ 
   This visualization highlights the difference in sales contribution between the two customer groups.
 
-5. Sales by Order Status
+6. Sales by Order Status:-
  The dashboard includes an **Order Status visualization** based on the count of Order IDs.
  The major order statuses include:
-   * Delivered
+
+    * Delivered
    * Cancelled
    * Returned
    * Refunded
+
  The dashboard shows that **Delivered orders account for approximately 93%** of orders, while the remaining orders are distributed across other statuses.
 
-6. Order Sales According to Channel:-
+8. Order Sales According to Channel:-
   A **Pie Chart** is used to analyze order sales according to the sales channel.
   The dashboard includes channels such as:
+
     * Ajio
     * Amazon
     * Flipkart
