@@ -5,7 +5,7 @@
   This project is an **Online Store Annual Report Dashboard** created using **Microsoft Excel**. The dashboard provides an     interactive analysis of sales, orders, customers, order status, channels, gender, age groups, months, and states.
 
   The main objective of this project is to transform raw online store data into an interactive dashboard that makes it easier to identify **sales trends, customer demographics, top-performing states, order performance, and sales distribution**.
-
+---
 🎯 Project Objectives :-
   * Analyze sales performance across different states.
   * Identify the **Top 5 states based on sales**.
@@ -16,7 +16,7 @@
   * Analyze order sales across different **sales channels**.
   * Understand monthly sales trends and customer purchasing patterns.
   * Build an interactive Excel dashboard using filters and visualizations.
-
+---
 📊 Dashboard Analysis
    1. Top 5 Sales According to State:-
       A horizontal **Bar Chart** is used to identify the top 5 states based on total sales.
@@ -78,7 +78,7 @@ Interactive channel filtering allows the user to analyze individual channels and
     * **Gender**
 
 These filters allow users to dynamically explore the dashboard and analyze specific customer segments, months, and sales channels.
-
+---
 💡 Key Insights:-  
    
   * **Maharashtra** is one of the strongest-performing states in terms of sales among the Top 5 states shown in the dashboard.
@@ -87,7 +87,7 @@ These filters allow users to dynamically explore the dashboard and analyze speci
  * **Delivered orders dominate the order status**, representing approximately 93% of the orders.
  * Monthly analysis helps identify changes in sales and order performance from **February to May** in the selected dashboard    view.
  * The interactive channel filter allows sales performance to be examined individually across different online sales            platforms.
-
+---
  Tools & Technologies :- 
    * **Microsoft Excel**
    * Pivot Tables
@@ -97,10 +97,14 @@ These filters allow users to dynamically explore the dashboard and analyze speci
    * Data Analysis
    * Data Visualization
   * Dashboard Development
-
+---
 🚀 Project Outcome :- 
   This project demonstrates the use of **Microsoft Excel for data analysis and interactive dashboard development**. The dashboard converts raw online store data into meaningful visual insights, making it easier to understand customer behavior, sales performance, order trends, and channel-level performance.
 
 👨‍💻 Skills Demonstrated
 
 **Excel | Data Cleaning | Data Analysis | Pivot Tables | Pivot Charts | Slicers | Dashboard Creation | Data Visualization | Business Insights**
+---
+## 👨‍💻 Author
+
+**Deepak Yadav**
